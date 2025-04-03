@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlSimpleTest", "MySqlSimpleTest\MySqlSimpleTest.csproj", "{093368DB-FC41-41F4-BA54-4DAF3109FE3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093368DB-FC41-41F4-BA54-4DAF3109FE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093368DB-FC41-41F4-BA54-4DAF3109FE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093368DB-FC41-41F4-BA54-4DAF3109FE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093368DB-FC41-41F4-BA54-4DAF3109FE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8454AA57-445F-4FE9-82C3-AD7048776FB4}
+	EndGlobalSection
+EndGlobal
